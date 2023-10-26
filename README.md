@@ -1,5 +1,8 @@
 # Awesome-Text2Motion-Generation
 
+## 0. Leaderboard 
+https://paperswithcode.com/sota/motion-synthesis-on-humanml3d?p=executing-your-commands-via-motion-diffusion 
+
 ## 1. Single Task
 
 ### MotionDiffuse (arXiv'22) 
